@@ -1,1 +1,1 @@
-mrm-8
+mini register machin 8-bits
